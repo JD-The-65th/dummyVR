@@ -10,10 +10,15 @@ literally none lmao
 
 # TODO 
 
-Headset Emulation []
-Controller Emulation []
-Headset streaming to executable []
-Headset movement & Rotation []
-Controller Movement & Rotation []
-API through OSC []
+Headset Emulation 
+
+Controller Emulation 
+
+Headset streaming to executable 
+
+Headset movement & Rotation 
+
+Controller Movement & Rotation 
+
+API through OSC 
 
