@@ -1,1 +1,7 @@
 build/
+CMakeFiles/
+*.cmake
+CMakeCache.txt
+build.ninja
+DartConfiguration.tcl
+DummyVR
