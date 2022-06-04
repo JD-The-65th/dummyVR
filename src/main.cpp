@@ -1,7 +1,7 @@
 #include <iostream>
 #include <thread>
 #include <filesystem>
-#include "include/dummyvr.hpp"
+#include "dummyvr.hpp"
 
 
 int main() {
